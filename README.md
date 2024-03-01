@@ -5,3 +5,7 @@ Este é um projeto de website de música responsivo no qual me inspirei para pra
 # Transições CSS: Adicionadas para criar efeitos de animação suaves e interativos.
 # Prototipação no Figma: Ferramenta utilizada para criar protótipos visuais e planejar o design antes da implementação.
 ![screenshot](screenshot.png)
+
+![screenshot2](screenshot2.png)
+
+![screenshot2](screenshot3.png)
